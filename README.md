@@ -1,7 +1,6 @@
-# p1g6
+# p1g6 What makes a movie succesful?
 ❏	Create a write-up summarizing your major findings. This should include a heading for each "question" you asked of your data, and under each heading, a short description of what you found and any relevant plots.
 
-❏What makes a movie successful?
 
 ❏Hypotheses:
 
